@@ -1,2 +1,2 @@
 # MultipleUsers-ChatApp-Realtime
-Multiple Users can connect to the network and chat
+Multiple Users can connect to the network and chat in realtime
